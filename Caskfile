@@ -38,17 +38,17 @@ vlc
 # PDF reader
 skim
 # Picture viewer
-xee22
+#xee22
 # Comic reader
-simple-comic
+#simple-comic
 # Sonos music manager
-sonos
+#sonos
 # Soundcloud client (yes, that's the correct spelling)
 soundcleod
 # Adobe Flash
 flash
 # Podcast player
-instacast
+#instacast
 # Music player - install vox from App Store instead
 # Spotify player
 spotify
@@ -80,4 +80,4 @@ keka
 
 ## Games
 # Steam client - now possible to stream games from the gaming rig to the Mac!
-steam
+#steam
