@@ -93,3 +93,5 @@ bindkey '[H' kill-word
 
 # Delete line with cmd-backspace
 bindkey '[I' kill-whole-line
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting

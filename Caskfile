@@ -5,6 +5,8 @@
 google-chrome
 # Terminal
 iterm2
+# Spotlight
+alfred
 
 ## Boxes
 # Virtualization
@@ -30,7 +32,7 @@ qlcolorcode qlstephen qlmarkdown quicklook-json betterzipql suspicious-package
 # Window management
 spectacle
 # Logitech Unifying software for keyboard and trackball
-logitech-unifying
+# logitech-unifying << I don't use this
 
 ## Media
 # Video player
@@ -75,6 +77,7 @@ skype
 # Online storage
 dropbox
 google-drive
+copy
 # Compression
 keka
 

@@ -22,5 +22,5 @@ caskroom/cask/brew-cask
 cloudfoundry-cli
 
 ## Time-waste stuff
-fortune
-cowsay
+#fortune
+#cowsay
